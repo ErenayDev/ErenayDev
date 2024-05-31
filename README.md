@@ -16,7 +16,7 @@
 
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
