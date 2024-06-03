@@ -17,6 +17,8 @@
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg">
+<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -41,4 +43,8 @@
 
 ### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&redirect=true)
+
+### Discord
+
+[![Discord](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
