@@ -7,7 +7,7 @@
 
 ### Social Media
 
-<a href="https://www.instagram.com/erenay_09/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
+<a href="https://www.instagram.com/_erenay_17/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
 <a href="https://discord.com/users/1029431477219360869"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <br />
 <br />
