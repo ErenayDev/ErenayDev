@@ -41,10 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&layout=compact" width=500>
 </detalis>
 
-### Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31goj7zh2kbiapqraxcckba37ohu&redirect=true)
-
 ### Discord
 
 [![Discord](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
