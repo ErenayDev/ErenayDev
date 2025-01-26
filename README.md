@@ -42,6 +42,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&layout=compact" width=500>
 </detalis>
 
+  <br/>
+  <p align="center">
+        <a href="https://github.com/ErenayFC/github-readme-stats"><img alt="ErenayFC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErenayFC&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ErenayFC/github-readme-stats"><img alt="ErenayFC's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p/>
+  <br/>
+
 ### Discord
 
 [![Discord](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
