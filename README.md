@@ -52,6 +52,9 @@
 
 <h2></h2>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🎮 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
 
