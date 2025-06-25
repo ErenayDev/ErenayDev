@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 47 mins  █████████████▓░░░░░░░░░░░   55.28 %
-JavaScript   3 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Svelte       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Python       1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Lua          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TypeScript   12 hrs 58 mins  █████████████░░░░░░░░░░░░   52.36 %
+JavaScript   3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Svelte       2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Python       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Lua          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
