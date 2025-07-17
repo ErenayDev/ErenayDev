@@ -24,8 +24,8 @@
 ### 💻 Tech Stack
 <div>
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,supabase,express,electron,nginx" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,vite" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,elysia,express,electron,postgres" />
 </div>
 
 <h2></h2>
@@ -33,21 +33,14 @@
 ### 🛠️ Development Tools
 <div>
     <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,babel" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" />
 </div>
 
 <h2></h2>
 
 ### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ErenayFC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ErenayFC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
@@ -68,7 +61,6 @@ HTML         3 mins          ▓░░░░░░░░░░░░░░░░
 [![Discord Presence](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
 
 <h2></h2>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
