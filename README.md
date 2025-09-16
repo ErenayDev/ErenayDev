@@ -23,8 +23,8 @@
 
 ### 💻 Tech Stack
 <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,vite" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,rust" /><br/>
     <img src="https://skillicons.dev/icons?i=mongodb,elysia,express,electron,postgres" />
 </div>
 
@@ -32,7 +32,7 @@
 
 ### 🛠️ Development Tools
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,babel" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,nvim" /><br/>
     <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" />
 </div>
 
