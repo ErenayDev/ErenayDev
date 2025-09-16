@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=js,ts,rust" /><br/>
     <img src="https://skillicons.dev/icons?i=elysia,express,electron,tauri" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,,postgres,docker,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,vercel,netlify" />
 
 </div>
 
