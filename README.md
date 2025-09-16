@@ -25,14 +25,16 @@
 <div>
     <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=js,ts,rust" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,elysia,express,electron,postgres" />
+    <img src="https://skillicons.dev/icons?i=elysia,express,electron,tauri" /><br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,,postgres" />
+
 </div>
 
 <h2></h2>
 
 ### 🛠️ Development Tools
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,nvim" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,neovim" /><br/>
     <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" />
 </div>
 
