@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="https://mastodon.social/@erenaydev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Mastodon.svg" width="40px">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Mastodon-Dark.svg" width="40px">
 </a>
 
 <h2></h2>
@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,tailwind" /><br/>
     <img src="https://skillicons.dev/icons?i=js,ts,rust" /><br/>
     <img src="https://skillicons.dev/icons?i=elysia,express,electron,tauri" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,,postgres" />
+    <img src="https://skillicons.dev/icons?i=mongodb,,postgres,git,docker" />
 
 </div>
 
