@@ -15,8 +15,8 @@
 <a href="https://discord.com/users/1029431477219360869" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
-<a href="https://erenaydev.com.tr" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40px">
+<a href="https://mastodon.social/@erenaydev" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Mastodon.svg" width="40px">
 </a>
 
 <h2></h2>
