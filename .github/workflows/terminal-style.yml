@@ -21,7 +21,7 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: npm install # npm ci yerine npm install
+        run: npm install
 
       - name: Generate README
         run: node src/generate-stats.js
