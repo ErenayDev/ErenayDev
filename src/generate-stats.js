@@ -104,8 +104,16 @@ async function main() {
     const generator = new GitHubStatsGenerator();
     const stats = await generator.generateStats();
 
-    const template = fs.readFileSync("src/template.md", "utf8");
-    const asciiArt = fs.readFileSync("src/ascii-art.txt", "utf8");
+    let template = fs.readFileSync("src/template.md", "utf8");
+    let asciiArt = fs.readFileSync("src/ascii-art.txt", "utf8");
+
+    // ASCII art'taki placeholder'ları değiştir
+    asciiArt = asciiArt
+      .replace("{{TOTAL_STARS}}", stats.totalStars)
+      .replace("{{COMMITS_THIS_YEAR}}", stats.commitsThisYear)
+      .replace("{{TOTAL_PRS}}", stats.totalPRs)
+      .replace("{{TOTAL_ISSUES}}", stats.totalIssues)
+      .replace("{{CONTRIBUTED_REPOS}}", stats.contributedRepos);
 
     const readme = template
       .replace("{{ASCII_ART}}", asciiArt)

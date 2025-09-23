@@ -1,10 +1,10 @@
-# erenay@github
+# ErenayDev@github
 
 ```
 {{ASCII_ART}}
 ```
 
-**Bio:** Self-Taught, Open Source Enthusiast  
+**Bio:** Self-Taught, Open Source Enthusiast
 **Status:** 🦀 Learning Rust
 
 ## Skills
@@ -21,8 +21,8 @@
 - **Total Issues:** {{TOTAL_ISSUES}}
 - **Contributed Repos:** {{CONTRIBUTED_REPOS}}
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 ---
 *Last updated: {{LAST_UPDATE}}*
