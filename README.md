@@ -1,64 +1,50 @@
-<div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+Erenay+%F0%9F%91%8B;Full-Stack+Developer" />
+# erenay@github
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ErenayDev&color=blue"/>
-</div>
+```
+           .-------------------------:                    erenay@github
+          .+=========================.                    ----------------------------
+         :++===++==================-       :++-          OS: Arch Linux (CachyOS)
+        :*++====+++++=============-        .==:          Shell: zsh
+       -*+++=====+***++==========:                       Terminal: kitty
+      =*++++========------------:                        
+     =*+++++=====-                     ...               
+   .+*+++++=-===:                    .=+++=:             
+  :++++=====-==:                     -*****+             
+:++========-=.                      .=+**+.              
+.+==========-.                          .                
+:+++++++====-                                .--==-.     
+  :++==========.                             :+++++++:   
+   .-===========.                            =*****+*+   
+    .-===========:                           .+*****+:   
+      -=======++++:::::::::::::::::::::::::-:  .---:    
+       :======++++====+++******************=.            
+        :=====+++==========++++++++++++++*-              
+         .====++==============++++++++++*-               
+          .===+==================+++++++:                
+           .-=======================+++:                 
+             ..........................                  
 
-<h2></h2>
-
-### 🌐 Connect With Me
-<a href="https://www.instagram.com/_erenay_17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40px">
-</a>
-<a href="https://discord.com/users/1029431477219360869" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
-</a>
-<a href="https://mastodon.social/@erenaydev" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Mastodon-Dark.svg" width="40px">
-</a>
-
-<h2></h2>
-
-### 💻 Tech Stack
-<div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vite,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,rust" /><br/>
-    <img src="https://skillicons.dev/icons?i=elysia,express,electron,tauri" /><br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,vercel,netlify" />
-
-</div>
-
-<h2></h2>
-
-### 🛠️ Development Tools
-<div>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,vim,neovim" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian" />
-</div>
-
-<h2></h2>
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ErenayDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayDev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-<h2></h2>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
 ```
 
+**Bio:** Self-Taught, Open Source Enthusiast  
+**Status:** 🦀 Learning Rust
+
+## Skills
+- **Languages:** TypeScript, JavaScript, Rust
+- **Frontend:** React, Next.js, Svelte(Kit)
+- **Backend:** Elysia.js, Express
+- **Infrastructure:** Docker, Redis, PostgreSQL, MongoDB
+- **Tools:** NeoVim, LunarVim, Zed
+
+## GitHub Stats
+- **Stars Earned:** 31
+- **Commits (This Year):** 64
+- **Total PRs:** 1
+- **Total Issues:** 2
+- **Contributed Repos:** 15
+
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-### 🎮 Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1029431477219360869)](https://discord.com/users/1029431477219360869)
-
-<h2></h2>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
+---
+*Last updated: 9/23/2025, 10:23:09 AM*
