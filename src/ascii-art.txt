@@ -1,22 +1,22 @@
-           .-------------------------:                    erenay@github
-          .+=========================.                    ----------------------------
-         :++===++==================-       :++-          OS: Arch Linux (CachyOS)
-        :*++====+++++=============-        .==:          Shell: zsh
-       -*+++=====+***++==========:                       Terminal: kitty
-      =*++++========------------:                        Bio: Self-Taught, Open Source Enthusiast
-     =*+++++=====-                     ...               Status: 🦀 Learning Rust
-   .+*+++++=-===:                    .=+++=:
-  :++++=====-==:                     -*****+             Skills:
-:++========-=.                      .=+**+.                ├─ Langs: TypeScript, JavaScript, Rust
-.+==========-.                          .                  ├─ Frontend: React, Next.js, Svelte(Kit)
-:+++++++====-                                .--==-.       ├─ Backend: Elysia.js, Express
-  :++==========.                             :+++++++:     ├─ Infra: Docker, Redis, PostgreSQL
-   .-===========.                            =*****+*+     └─ Tools: NeoVim, LunarVim, Zed
-    .-===========:                           .+*****+:
-      -=======++++:::::::::::::::::::::::::-:  .---:      GitHub Stats:
-       :======++++====+++******************=.              ├─ Stars Earned: {{TOTAL_STARS}}
-        :=====+++==========++++++++++++++*-                ├─ Commits (This Year): {{COMMITS_THIS_YEAR}}
-         .====++==============++++++++++*-                 ├─ Total PRs: {{TOTAL_PRS}}
-          .===+==================+++++++:                  ├─ Total Issues: {{TOTAL_ISSUES}}
-           .-=======================+++:                   └─ Contributed Repos: {{CONTRIBUTED_REPOS}}
-             ..........................
+[0;36m           .-------------------------:[0m                   erenay@cachyos-x8664
+[0;36m          .+=========================.[0m                   ----------------------------
+[0;36m         :++===++==================-       :++-[0m          [0;32mOS: CachyOS x86_64[0m
+[0;36m        :*++====+++++=============-        .==:[0m          [0;33mShell: zsh[0m
+[0;36m       -*+++=====+***++==========:[0m                       [0;35mTerminal: kitty[0m
+[0;36m      =*++++========------------:[0m                        [0;37mBio: Self-Taught, Open Source Enthusiast[0m
+[0;36m     =*+++++=====-                     ...[0m               [0;31mStatus: 🦀 Learning Rust[0m
+[0;36m   .+*+++++=-===:                    .=+++=:[0m
+[0;36m  :++++=====-==:                     -*****+[0m             [0;34mSkills:[0m
+[0;36m:++========-=.                      .=+**+.[0m                [0;32m├─ Langs: TypeScript, JavaScript, Rust[0m
+[0;36m.+==========-.                          .[0m                  [0;33m├─ Frontend: React, Next.js, Svelte(Kit)[0m
+[0;36m:+++++++====-                                .--==-.[0m       [0;35m├─ Backend: Elysia.js, Express[0m
+[0;36m  :++==========.                             :+++++++:[0m     [0;36m├─ Infra: Docker, Redis, PostgreSQL[0m
+[0;36m   .-===========.                            =*****+*+[0m     [0;37m└─ Tools: NeoVim, LunarVim, Zed[0m
+[0;36m    .-===========:                           .+*****+:[0m
+[0;36m      -=======++++:::::::::::::::::::::::::-:  .---:[0m      [0;31mGitHub Stats:[0m
+[0;36m       :======++++====+++******************=.[0m              [0;32m├─ Stars Earned: {{TOTAL_STARS}}[0m
+[0;36m        :=====+++==========++++++++++++++*-[0m                [0;33m├─ Commits (This Year): {{COMMITS_THIS_YEAR}}[0m
+[0;36m         .====++==============++++++++++*-[0m                 [0;35m├─ Total PRs: {{TOTAL_PRS}}[0m
+[0;36m          .===+==================+++++++:[0m                  [0;36m├─ Total Issues: {{TOTAL_ISSUES}}[0m
+[0;36m           .-=======================+++:[0m                   [0;37m└─ Contributed Repos: {{CONTRIBUTED_REPOS}}[0m
+[0;36m             ..........................[0m
