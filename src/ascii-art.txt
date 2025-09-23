@@ -14,7 +14,7 @@
    .-===========.                            =*****+*+     └─ Tools: NeoVim, LunarVim, Zed
     .-===========:                           .+*****+:
       -=======++++:::::::::::::::::::::::::-:  .---:      GitHub Stats:
-       :======++++====+++******************=.               ├─ Stars Earned: {{TOTAL_STARS}}
+       :======++++====+++******************=.              ├─ Stars Earned: {{TOTAL_STARS}}
         :=====+++==========++++++++++++++*-                ├─ Commits (This Year): {{COMMITS_THIS_YEAR}}
          .====++==============++++++++++*-                 ├─ Total PRs: {{TOTAL_PRS}}
           .===+==================+++++++:                  ├─ Total Issues: {{TOTAL_ISSUES}}
