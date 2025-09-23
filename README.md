@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+Erenay+%F0%9F%91%8B;Full-Stack+Developer" />
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ErenayFC&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=ErenayDev&color=blue"/>
 </div>
 
 <h2></h2>
@@ -41,9 +41,9 @@
 <h2></h2>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ErenayFC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErenayDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayFC&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenayDev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
