@@ -1,6 +1,7 @@
 # erenay@cachyos-x8664
 
 ```
+❯ fastfetch
            .-------------------------:                   erenay@cachyos-x8664
           .+=========================.                   ----------------------------
          :++===++==================-       :++-          OS: CachyOS x86_64
@@ -26,9 +27,4 @@
 
 ```
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
