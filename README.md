@@ -27,13 +27,4 @@
 
 ```
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript     47 hrs 50 mins  ████████████▒░░░░░░░░░░░░   49.82 %
-JavaScript     19 hrs 23 mins  █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Svelte         9 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-JSON           3 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-CSS            3 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-```
-
 <!--END_SECTION:waka-->
