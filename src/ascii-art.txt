@@ -1,23 +1,25 @@
 ❯ fastfetch
-           .-------------------------:                   erenay@cachyos-x8664
-          .+=========================.                   ----------------------------
-         :++===++==================-       :++-          OS: CachyOS x86_64
-        :*++====+++++=============-        .==:          Shell: zsh 5.9
-       -*+++=====+***++==========:                       Terminal: kitty 0.42.2
-      =*++++========------------:                        Bio: Self-Taught, Open Source Enthusiast
-     =*+++++=====-                     ...               Status: 🦀 Learning Rust
-   .+*+++++=-===:                    .=+++=:
-  :++++=====-==:                     -*****+             Skills:
-:++========-=.                      .=+**+.                ├─ Langs: TypeScript, JavaScript, Rust
-.+==========-.                          .                  ├─ Frontend: React, Next.js, Svelte(Kit)
-:+++++++====-                                .--==-.       ├─ Backend: Elysia.js, Express
-  :++==========.                             :+++++++:     ├─ DevOps: Docker, Redis, PostgreSQL
-   .-===========.                            =*****+*+     └─ Tools: NeoVim, LunarVim, Zed
-    .-===========:                           .+*****+:
-      -=======++++:::::::::::::::::::::::::-:  .---:      GitHub Stats:
-       :======++++====+++******************=.              ├─ Stars Earned: {{TOTAL_STARS}}
-        :=====+++==========++++++++++++++*-                ├─ Commits (This Year): {{COMMITS_THIS_YEAR}}
-         .====++==============++++++++++*-                 ├─ Total PRs: {{TOTAL_PRS}}
-          .===+==================+++++++:                  ├─ Total Issues: {{TOTAL_ISSUES}}
-           .-=======================+++:                   └─ Contributed Repos: {{CONTRIBUTED_REPOS}}
-             ..........................
+             .',;::::;,'.                 erenay@fedora-42
+         .';:cccccccccccc:;,.             ----------------
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 42 (Workstation Edition) x86_64
+    .:cccccccccccccccccccccccccc:.        Shell: zsh 5.9
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Terminal: kitty 0.43.1
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 48.5
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    CPU: AMD Ryzen 3 7320U (8) @ 2.40 GHz
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    GPU: AMD Radeon 610M [Integrated]
+:cccccccccccccc;MMM.;cccccccccccccccc:
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:    Status: 🦀 Learning Rust
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Bio: Self-Taught, Open Source Enthusiast
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Skills: ├─ Langs: TypeScript, JavaScript, Rust
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       ├─ Frontend: React, Next.js, Svelte(Kit)
+cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Backend: Elysia.js, Express
+cccccccc;.:odl:.;cccccccccccccc:,.         ├─ DevOps: Docker, Redis, PostgreSQL
+ccccccccccccccccccccccccccccc:'.           └─ Tools: NeoVim, LunarVim, Zed
+:ccccccccccccccccccccccc:;,..
+ ':cccccccccccccccc::;,.                  GitHub Stats:
+                                           ├─ Stars Earned: {{TOTAL_STARS}}
+                                           ├─ Commits (This Year): {{COMMITS_THIS_YEAR}}
+                                           ├─ Total PRs: {{TOTAL_PRS}}
+                                           ├─ Total Issues: {{TOTAL_ISSUES}}
+                                           └─ Contributed Repos: {{CONTRIBUTED_REPOS}}

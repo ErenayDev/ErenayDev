@@ -57,12 +57,10 @@ class GitHubStatsGenerator {
   async getCommitStats() {
     try {
       const currentYear = new Date().getFullYear();
-
       const { data } = await this.octokit.rest.search.commits({
         q: `author:${this.username} author-date:${currentYear}-01-01..${currentYear}-12-31`,
         per_page: 1,
       });
-
       return { thisYear: data.total_count };
     } catch (error) {
       console.log("Commit stats could not be retrieved, using fallback");
@@ -76,7 +74,6 @@ class GitHubStatsGenerator {
         q: `author:${this.username} type:pr`,
         per_page: 1,
       });
-
       return { total: data.total_count };
     } catch (error) {
       console.log("PR stats could not be retrieved");
@@ -90,7 +87,6 @@ class GitHubStatsGenerator {
         q: `author:${this.username} type:issue`,
         per_page: 1,
       });
-
       return { total: data.total_count };
     } catch (error) {
       console.log("Issue stats could not be retrieved");
@@ -107,7 +103,6 @@ async function main() {
     let template = fs.readFileSync("src/template.md", "utf8");
     let asciiArt = fs.readFileSync("src/ascii-art.txt", "utf8");
 
-    // ASCII art'taki placeholder'ları değiştir
     asciiArt = asciiArt
       .replace("{{TOTAL_STARS}}", stats.totalStars)
       .replace("{{COMMITS_THIS_YEAR}}", stats.commitsThisYear)
