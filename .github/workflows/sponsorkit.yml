@@ -22,7 +22,7 @@ jobs:
         run: bun run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
-          SPONSORKIT_GITHUB_LOGIN: antfu
+          SPONSORKIT_GITHUB_LOGIN: ErenayDev
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
