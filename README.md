@@ -31,7 +31,15 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 ```
 
 <!--START_SECTION:waka-->
-fdlgldfkgdf
+
+```txt
+TypeScript     54 hrs 45 mins  █████████████░░░░░░░░░░░░   52.36 %
+JavaScript     19 hrs 30 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Svelte         9 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+JSON           3 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+CSS            3 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+```
+
 <!--END_SECTION:waka-->
 
 Last updated: 24.10.2025 18:01
