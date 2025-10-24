@@ -1,33 +1,28 @@
 name: Sponsorkit Scheduler
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
   push:
     branches: [main]
-
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - uses: pnpm/action-setup@v4
-
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
       - name: Set node
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
-
-      - run: pnpm i
-
+      - run: bun install
       - name: Update sponsors
-        run: npm run build
+        run: bun run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: antfu
-
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
