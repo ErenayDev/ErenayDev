@@ -19,7 +19,7 @@ jobs:
           node-version: lts/*
       - run: bun install
       - name: Update sponsors
-        run: bun run build
+        run: bunx sponsorkit
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ErenayDev
