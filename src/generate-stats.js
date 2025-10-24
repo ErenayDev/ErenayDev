@@ -100,7 +100,8 @@ async function main() {
     const generator = new GitHubStatsGenerator();
     const stats = await generator.generateStats();
 
-    let template = fs.readFileSync("src/template.md", "utf8");
+    let readme = fs.readFileSync("README.md", "utf8");
+
     let asciiArt = fs.readFileSync("src/ascii-art.txt", "utf8");
 
     asciiArt = asciiArt
@@ -110,19 +111,35 @@ async function main() {
       .replace("{{TOTAL_ISSUES}}", stats.totalIssues)
       .replace("{{CONTRIBUTED_REPOS}}", stats.contributedRepos);
 
-    const readme = template
-      .replace("{{ASCII_ART}}", asciiArt)
-      .replace("{{TOTAL_STARS}}", stats.totalStars)
-      .replace("{{COMMITS_THIS_YEAR}}", stats.commitsThisYear)
-      .replace("{{TOTAL_PRS}}", stats.totalPRs)
-      .replace("{{TOTAL_ISSUES}}", stats.totalIssues)
-      .replace("{{CONTRIBUTED_REPOS}}", stats.contributedRepos)
-      .replace("{{LAST_UPDATE}}", new Date().toLocaleString());
+    const codeBlockRegex = /```\n([\s\S]*?)\n```/;
+    const match = readme.match(codeBlockRegex);
 
-    fs.writeFileSync("README.md", readme);
-    console.log("README updated successfully!");
+    if (match) {
+      readme = readme.replace(codeBlockRegex, `\`\`\`\n${asciiArt}\n\`\`\``);
+
+      const date = new Date();
+      const updateTime =
+        date.toLocaleDateString("tr-TR") +
+        " " +
+        String(date.getHours()).padStart(2, "0") +
+        ":" +
+        String(date.getMinutes()).padStart(2, "0");
+
+      readme = readme.replace(
+        /Last updated: .*/,
+        `Last updated: ${updateTime}`,
+      );
+
+      fs.writeFileSync("README.md", readme);
+      console.log("✅ README ASCII art updated successfully!");
+      console.log(
+        `📊 Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
+      );
+    } else {
+      console.log("❌ Could not find ASCII art code block in README.md");
+    }
   } catch (error) {
-    console.error("Error generating stats:", error);
+    console.error("❌ Error generating stats:", error);
     process.exit(1);
   }
 }

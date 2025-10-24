@@ -11,13 +11,14 @@
 :ccccccc;oxOOOo;MMM000k.;cccccccccccc:    Status: 🦀 Learning Rust
 cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Bio: Self-Taught, Open Source Enthusiast
 ccccc;XMO';cccc;MMM.;cccccccccccccccc'
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Skills: ├─ Langs: TypeScript, JavaScript, Rust
-ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       ├─ Frontend: React, Next.js, Svelte(Kit)
-cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Backend: Elysia.js, Express
-cccccccc;.:odl:.;cccccccccccccc:,.         ├─ DevOps: Docker, Redis, PostgreSQL
-ccccccccccccccccccccccccccccc:'.           └─ Tools: NeoVim, LunarVim, Zed
-:ccccccccccccccccccccccc:;,..
- ':cccccccccccccccc::;,.                  GitHub Stats:
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Skills:
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       ├─ Langs: TypeScript, JavaScript, Rust
+cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Frontend: React, Next.js, Svelte(Kit)
+cccccccc;.:odl:.;cccccccccccccc:,.         ├─ Backend: Elysia.js, Express
+ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, PostgreSQL
+:ccccccccccccccccccccccc:;,..              └─ Tools: NeoVim, LunarVim, Zed
+ ':cccccccccccccccc::;,.
+                                          GitHub Stats:
                                            ├─ Stars Earned: {{TOTAL_STARS}}
                                            ├─ Commits (This Year): {{COMMITS_THIS_YEAR}}
                                            ├─ Total PRs: {{TOTAL_PRS}}

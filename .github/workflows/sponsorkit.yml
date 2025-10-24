@@ -1,38 +1,39 @@
-name: ASCII Art Terminal
+name: Sponsorkit Scheduler
+
 on:
-  schedule:
-    - cron: "0 */6 * * *" # Every 6 hour
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
   push:
     branches: [main]
 
 jobs:
-  update-readme:
+  update-sponsors:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: pnpm/action-setup@v4
 
       - name: Set node
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
 
-      - name: Install dependencies
-        run: npm install
+      - run: pnpm i
 
-      - name: Generate README
-        run: node src/generate-stats.js
+      - name: Update sponsors
+        run: npm run build
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: antfu
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: "chore: update profile stats [skip ci]"
-          add: "README.md"
+          message: "chore: update sponsors.svg [ci skip]"
+          add: "sponsors.*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
