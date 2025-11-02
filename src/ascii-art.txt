@@ -1,10 +1,10 @@
 ❯ fastfetch
-             .',;::::;,'.                 erenay@fedora-42
+             .',;::::;,'.                 erenay@fedora-43
          .';:cccccccccccc:;,.             ----------------
-      .;cccccccccccccccccccccc;.          OS: Fedora Linux 42 (Workstation Edition) x86_64
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 43 (Workstation Edition) x86_64
     .:cccccccccccccccccccccccccc:.        Shell: zsh 5.9
-  .;ccccccccccccc;.:dddl:.;ccccccc;.      Terminal: kitty 0.43.1
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 48.5
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Terminal: ghostty 1.2.3
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 49.1
 .:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    CPU: AMD Ryzen 3 7320U (8) @ 2.40 GHz
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    GPU: AMD Radeon 610M [Integrated]
 :cccccccccccccc;MMM.;cccccccccccccccc:
