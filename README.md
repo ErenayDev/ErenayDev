@@ -2,12 +2,12 @@
 
 ```
 ❯ fastfetch
-             .',;::::;,'.                 erenay@fedora-42
+             .',;::::;,'.                 erenay@fedora-43
          .';:cccccccccccc:;,.             ----------------
-      .;cccccccccccccccccccccc;.          OS: Fedora Linux 42 (Workstation Edition) x86_64
+      .;cccccccccccccccccccccc;.          OS: Fedora Linux 43 (Workstation Edition) x86_64
     .:cccccccccccccccccccccccccc:.        Shell: zsh 5.9
-  .;ccccccccccccc;.:dddl:.;ccccccc;.      Terminal: kitty 0.43.1
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 48.5
+  .;ccccccccccccc;.:dddl:.;ccccccc;.      Terminal: ghostty 1.2.3
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.     DE: GNOME 49.1
 .:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.    CPU: AMD Ryzen 3 7320U (8) @ 2.40 GHz
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,    GPU: AMD Radeon 610M [Integrated]
 :cccccccccccccc;MMM.;cccccccccccccccc:
@@ -23,8 +23,8 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
  ':cccccccccccccccc::;,.
                                           GitHub Stats:
                                            ├─ Stars Earned: 33
-                                           ├─ Commits (This Year): 161
-                                           ├─ Total PRs: 6
+                                           ├─ Commits (This Year): 176
+                                           ├─ Total PRs: 7
                                            ├─ Total Issues: 2
                                            └─ Contributed Repos: 17
 
@@ -42,4 +42,4 @@ Markdown       6 hrs 21 mins   █░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-Last updated: 02.11.2025 06:34
+Last updated: 02.11.2025 09:58
