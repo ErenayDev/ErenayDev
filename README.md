@@ -33,11 +33,11 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     54 hrs 45 mins  ██████████░░░░░░░░░░░░░░░   39.67 %
-Other          28 hrs 24 mins  █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-JavaScript     19 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Svelte         9 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Markdown       6 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TypeScript     54 hrs 45 mins  █████████▒░░░░░░░░░░░░░░░   37.49 %
+Other          34 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+JavaScript     19 hrs 30 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Svelte         9 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown       8 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
