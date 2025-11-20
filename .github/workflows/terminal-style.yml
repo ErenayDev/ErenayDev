@@ -1,7 +1,7 @@
 name: ASCII Art Terminal
 on:
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hour
+    - cron: "0 12 * * *" # At 12:00 PM
   workflow_dispatch:
   push:
     branches: [main]
