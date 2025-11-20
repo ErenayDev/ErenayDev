@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 12 * * *" # At 12:00 PM
+  push:
+    branches: [main]
 
 jobs:
   update-readme:
@@ -14,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
-          IGNORED_LANGUAGES: "Binary YAML JSON TOML Other"
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML Other jsonc"
           SHOW_TITLE: true
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           SHOW_TOTAL: true
