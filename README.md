@@ -23,7 +23,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
  ':cccccccccccccccc::;,.
                                           GitHub Stats:
                                            ├─ Stars Earned: 38
-                                           ├─ Commits (This Year): 227
+                                           ├─ Commits (This Year): 228
                                            ├─ Total PRs: 9
                                            ├─ Total Issues: 3
                                            └─ Contributed Repos: 18
@@ -33,13 +33,20 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     60 hrs 18 mins  █████████░░░░░░░░░░░░░░░░   35.41 %
-Other          36 hrs 23 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-JavaScript     21 hrs 49 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Markdown       13 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Svelte         9 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+From: 16 June 2025 - To: 19 November 2025
+
+Total Time: 133 hrs 55 mins
+
+TypeScript     60 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.41 %
+JavaScript     21 hrs 49 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.81 %
+Markdown       13 hrs 48 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.11 %
+Svelte         9 hrs 49 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 %
+Rust           6 hrs 49 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.01 %
+CSS            3 hrs 23 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
+Python         1 hr 51 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.10 %
+jsonc          1 hr 37 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.95 %
 ```
 
 <!--END_SECTION:waka-->
 
-Last updated: 20.11.2025 06:36
+Last updated: 20.11.2025 12:37
