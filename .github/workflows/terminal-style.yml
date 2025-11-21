@@ -1,7 +1,7 @@
 name: ASCII Art Terminal
 on:
   schedule:
-    - cron: "0 12 * * *" # At 12:00 PM
+    - cron: "5 12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -13,26 +13,37 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          fetch-depth: 0
+      
       - name: Set node
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
-
+      
       - name: Install dependencies
         run: npm install
-
+      
+      - name: Pull latest changes
+        run: git pull origin main
+      
       - name: Generate README
         run: node src/generate-stats.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: GitHub Actions
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: "chore: update profile stats [skip ci]"
-          add: "README.md"
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code README.md || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "chore: update profile stats [skip ci]"
+          git pull --rebase origin main
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
