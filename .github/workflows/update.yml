@@ -15,6 +15,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - uses: oven-sh/setup-bun@v2
         with:
@@ -37,13 +39,5 @@ jobs:
           SYMBOL_VERSION: "⣀⣄⣤⣦⣶⣷⣿"
           SHOW_TOTAL: true
           LANG_COUNT: 10
-
-      - name: Commit Changes
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add README.md
-          if [[ "$(git status --porcelain)" != "" ]]; then
-            git commit -m "Update profile stats"
-            git push
-          fi
+          COMMIT_MESSAGE: "Update stats"
+          GH_TOKEN: ${{ secrets.USER_TOKEN }}
