@@ -55,31 +55,17 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 | Contributed Repos | 21 |
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-<!--END_SECTION:waka-->
-
----
-
-#### Sponsors
-<p align="center">
-  <a href="https://github.com/sponsors/ErenayDev">
-    <img src="../sponsorkit/sponsors.svg" />
-  </a>
-</p>
-
-Last updated: 18.01.2026 08:47
-=======
 
 ```txt
-From: 16 June 2025 - To: 16 January 2026
+From: 16 June 2025 - To: 17 January 2026
 
-Total Time: 199 hrs
+Total Time: 199 hrs 24 mins
 
-TypeScript        73 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 %
-JavaScript        25 hrs 53 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.00 %
-Svelte            23 hrs 49 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.12 %
-Markdown          20 hrs 14 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.60 %
-Rust              16 hrs 44 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.11 %
+TypeScript        73 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.17 %
+JavaScript        26 hrs 8 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.09 %
+Svelte            23 hrs 49 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.10 %
+Markdown          20 hrs 22 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.64 %
+Rust              16 hrs 44 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.10 %
 CSS               4 hrs 37 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.96 %
 HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.08 %
 ```
