@@ -99,19 +99,18 @@ class GitHubStatsGenerator {
     if (!commits || commits.length === 0) {
       return "| Message | Repository | Date |\n|---------|------------|------|\n| No recent commits | - | - |";
     }
-
     let table =
       "| Message | Repository | Date |\n|---------|------------|------|\n";
-
     commits.forEach((commit) => {
       const message = commit.commit.message.split("\n")[0].substring(0, 50);
+      const commitLink = commit.html_url;
       const repo = commit.repository.full_name.split("/")[1];
+      const repoLink = `https://github.com/${commit.repository.full_name}`;
       const date = new Date(commit.commit.author.date).toLocaleDateString(
         "tr-TR",
       );
-      table += `| ${message} | ${repo} | ${date} |\n`;
+      table += `| [${message}](${commitLink}) | [${repo}](${repoLink}) | ${date} |\n`;
     });
-
     return table;
   }
 
@@ -131,7 +130,6 @@ async function main() {
     const generator = new GitHubStatsGenerator();
     const stats = await generator.generateStats();
 
-    let readme = fs.readFileSync("README.md", "utf8");
     const template = fs.readFileSync("TEMPLATE.md", "utf8");
 
     const commitTable = generator.generateCommitTable(stats.commits);
@@ -152,7 +150,7 @@ async function main() {
 
     fs.writeFileSync("README.md", output);
 
-    console.log("✅ README updated successfully!");
+    console.log(" README updated successfully!");
     console.log(
       `📊 Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
     );

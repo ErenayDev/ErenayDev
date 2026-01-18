@@ -1,6 +1,6 @@
 # erenay@fedora-43
 
-```
+```sh
 ErenayDev on  main [✘!?] is 📦 v1.0.0 via 🥟 v1.3.5
 ❯ chmod +x print-ascii.sh && ./print-ascii.sh
         _____                           _____                                                  
@@ -45,6 +45,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### GitHub Stats
 {{STATS_TABLE}}
 
+#### WakaTime Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -53,8 +54,8 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Sponsors
 <p align="center">
   <a href="https://github.com/sponsors/ErenayDev">
-    <img src="../sponsorkit/sponsors.svg" />
+    <img src="./sponsorkit/sponsors.svg" />
   </a>
 </p>
 
-Last updated: {{LAST_UPDATE}}
+Last updated: {{LAST_UPDATE}} (UTC)
