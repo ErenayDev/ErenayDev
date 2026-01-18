@@ -40,4 +40,3 @@ jobs:
           SHOW_TOTAL: true
           LANG_COUNT: 10
           COMMIT_MESSAGE: "Update stats"
-          GH_TOKEN: ${{ secrets.USER_TOKEN }}
