@@ -36,7 +36,7 @@ jobs:
           TIME_RANGE: all_time
           IGNORED_LANGUAGES: "Binary YAML JSON TOML Other jsonc"
           SHOW_TITLE: true
-          SYMBOL_VERSION: "⣀⣄⣤⣦⣶⣷⣿"
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           SHOW_TOTAL: true
           LANG_COUNT: 10
           COMMIT_MESSAGE: "Update stats"
