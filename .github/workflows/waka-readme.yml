@@ -1,9 +1,8 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *" # At 12:00 PM
+    - cron: "10 12 * * *"
   push:
     branches: [main]
 
