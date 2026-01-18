@@ -1,0 +1,49 @@
+name: Update Profile
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Update Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - run: bun install
+
+      - name: Generate Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN }}
+        run: bun generate-stats.js
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          IGNORED_LANGUAGES: "Binary YAML JSON TOML Other jsonc"
+          SHOW_TITLE: true
+          SYMBOL_VERSION: "⣀⣄⣤⣦⣶⣷⣿"
+          SHOW_TOTAL: true
+          LANG_COUNT: 10
+
+      - name: Commit Changes
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git commit -m "Update profile stats"
+            git push
+          fi
