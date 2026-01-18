@@ -29,7 +29,6 @@ ErenayDev on  main [✘!?] is 📦 v1.0.0 via 🥟 v1.3.5
 :cccccccccccccc;MMM.;cccccccccccccccc:
 :ccccccc;oxOOOo;MMM000k.;cccccccccccc:    Status: 🦀 Learning Rust
 cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Bio: Self-Taught, Open Source Enthusiast
-<<<<<<< HEAD
 ccccc;XMO';cccc;MMM.;cccccccccccccccc'    Timezone: UTC+3 Europe/Istanbul
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     
 ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Skills:
@@ -38,23 +37,6 @@ cccccccc;.:odl:.;cccccccccccccc:,.         ├─ Frontend: React, Svelte
 ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 :ccccccccccccccccccccccc:;,..              ├─ DevOps: Docker, Redis, PostgreSQL
  ':cccccccccccccccc::;,.                   └─ Tools: NeoVim, LunarVim, Zed
-=======
-ccccc;XMO';cccc;MMM.;cccccccccccccccc'
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Skills:
-ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       ├─ Langs: TypeScript, JavaScript, Rust
-cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Frontend: React, Next.js, Svelte(Kit)
-cccccccc;.:odl:.;cccccccccccccc:,.         ├─ Backend: Elysia.js, Express
-ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, PostgreSQL
-:ccccccccccccccccccccccc:;,..              └─ Tools: NeoVim, LunarVim, Zed
- ':cccccccccccccccc::;,.
-                                          GitHub Stats:
-                                           ├─ Stars Earned: 44
-                                           ├─ Commits (This Year): 25
-                                           ├─ Total PRs: 16
-                                           ├─ Total Issues: 7
-                                           └─ Contributed Repos: 21
-
->>>>>>> refs/remotes/origin/main
 ```
 
 #### Recent Activity
@@ -82,7 +64,6 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 | Contributed Repos | 21 |
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
 <!--END_SECTION:waka-->
 
 ---
@@ -95,23 +76,3 @@ ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, Postgre
 </p>
 
 Last updated: 18.01.2026 11:42
-=======
-
-```txt
-From: 16 June 2025 - To: 16 January 2026
-
-Total Time: 199 hrs
-
-TypeScript        73 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 %
-JavaScript        25 hrs 53 mins  ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.00 %
-Svelte            23 hrs 49 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.12 %
-Markdown          20 hrs 14 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.60 %
-Rust              16 hrs 44 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.11 %
-CSS               4 hrs 37 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.96 %
-HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.08 %
-```
-
-<!--END_SECTION:waka-->
-
-Last updated: 17.01.2026 12:47
->>>>>>> refs/remotes/origin/main
