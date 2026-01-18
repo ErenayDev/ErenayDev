@@ -1,6 +1,22 @@
 # erenay@fedora-43
 
 ```
+ErenayDev on  main [✘!?] is 📦 v1.0.0 via 🥟 v1.3.5
+❯ chmod +x print-ascii.sh && ./print-ascii.sh
+        _____                           _____                                                  
+   _____\    \ ___________         _____\    \  _____    _____        _____    ______   _____  
+  /    / |    |\          \       /    / |    ||\    \   \    \     /      |_ |\     \ |     | 
+ /    /  /___/| \    /\    \     /    /  /___/| \\    \   |    |   /         \\ \     \|     | 
+|    |__ |___|/  |   \_\    |   |    |__ |___|/  \\    \  |    |  |     /\    \\ \           | 
+|       \        |      ___/    |       \         \|    \ |    |  |    |  |    \\ \____      | 
+|     __/ __     |      \  ____ |     __/ __       |     \|    |  |     \/      \\|___/     /| 
+|\    \  /  \   /     /\ \/    \|\    \  /  \     /     /\      \ |\      /\     \   /     / | 
+| \____\/    | /_____/ |\______|| \____\/    |   /_____/ /______/|| \_____\ \_____\ /_____/  / 
+| |    |____/| |     | | |     || |    |____/|  |      | |     | || |     | |     | |     | /  
+ \|____|   | | |_____|/ \|_____| \|____|   | |  |______|/|_____|/  \|_____|\|_____| |_____|/   
+       |___|/                          |___|/                                                  
+
+ErenayDev on  main [✘!?] is 📦 v1.0.0 via 🥟 v1.3.5
 ❯ fastfetch
              .',;::::;,'.                 erenay@fedora-43
          .';:cccccccccccc:;,.             ----------------
@@ -13,40 +29,50 @@
 :cccccccccccccc;MMM.;cccccccccccccccc:
 :ccccccc;oxOOOo;MMM000k.;cccccccccccc:    Status: 🦀 Learning Rust
 cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;    Bio: Self-Taught, Open Source Enthusiast
-ccccc;XMO';cccc;MMM.;cccccccccccccccc'
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     Skills:
-ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       ├─ Langs: TypeScript, JavaScript, Rust
-cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Frontend: React, Next.js, Svelte(Kit)
-cccccccc;.:odl:.;cccccccccccccc:,.         ├─ Backend: Elysia.js, Express
-ccccccccccccccccccccccccccccc:'.           ├─ DevOps: Docker, Redis, PostgreSQL
-:ccccccccccccccccccccccc:;,..              └─ Tools: NeoVim, LunarVim, Zed
- ':cccccccccccccccc::;,.
-                                          GitHub Stats:
-                                           ├─ Stars Earned: 38
-                                           ├─ Commits (This Year): 228
-                                           ├─ Total PRs: 9
-                                           ├─ Total Issues: 3
-                                           └─ Contributed Repos: 18
-
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'    Timezone: UTC+3 Europe/Istanbul
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;     
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;      Skills:
+cccccc;dNMWXXXWM0:;cccccccccccccc:,        ├─ Langs: TypeScript, JavaScript, Rust, English, Turkish
+cccccccc;.:odl:.;cccccccccccccc:,.         ├─ Frontend: React, Svelte
+ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
+:ccccccccccccccccccccccc:;,..              ├─ DevOps: Docker, Redis, PostgreSQL
+ ':cccccccccccccccc::;,.                   └─ Tools: NeoVim, LunarVim, Zed
 ```
+
+#### Recent Activity
+| Message | Repository | Date |
+|---------|------------|------|
+| Initial commit :) | ErenayDev.com.tr | 12.01.2026 |
+| Weblate: Turkish | rethink-app | 04.01.2026 |
+| Translated using Weblate (Turkish) | Overmorrow | 14.01.2026 |
+| Translated using Weblate (Turkish) | Overmorrow | 14.01.2026 |
+| fix: Shadow field obfuscated SRG mapping error | OfflineLAN-1.16.5 | 10.01.2026 |
+| feat(metadata): update license information, readme | OfflineLAN-1.16.5 | 10.01.2026 |
+| Update README.md | OfflineLAN-1.16.5 | 09.01.2026 |
+| Refactor ShareToLanScreenMixin for clarity and fea | OfflineLAN-1.16.5 | 09.01.2026 |
+| Refactor Mod import statement | OfflineLAN-1.16.5 | 09.01.2026 |
+| Create pack.mcmeta | OfflineLAN-1.16.5 | 09.01.2026 |
+
+
+#### GitHub Stats
+| Metric | Count |
+|--------|-------|
+| Total Stars | 44 |
+| Commits (2026) | 26 |
+| Pull Requests | 16 |
+| Issues | 7 |
+| Contributed Repos | 21 |
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 16 June 2025 - To: 19 November 2025
-
-Total Time: 133 hrs 55 mins
-
-TypeScript     60 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.41 %
-JavaScript     21 hrs 49 mins  ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.81 %
-Markdown       13 hrs 48 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.11 %
-Svelte         9 hrs 49 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 %
-Rust           6 hrs 49 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.01 %
-CSS            3 hrs 23 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 %
-Python         1 hr 51 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.10 %
-jsonc          1 hr 37 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.95 %
-```
-
 <!--END_SECTION:waka-->
 
-Last updated: 20.11.2025 12:37
+---
+
+#### Sponsors
+<p align="center">
+  <a href="https://github.com/sponsors/ErenayDev">
+    <img src="../sponsorkit/sponsors.svg" />
+  </a>
+</p>
+
+Last updated: 18.01.2026 11:42
