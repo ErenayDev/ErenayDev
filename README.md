@@ -41,10 +41,30 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 
 ### last commits
 <!--START_SECTION:commits-->
+| Message | Repository | Date |
+|---------|------------|------|
+| [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
+| [Weblate: Turkish](https://github.com/celzero/rethink-app/commit/3eec3f4ef42f7f79144ce92f4c7e370c9762755c) | [rethink-app](https://github.com/celzero/rethink-app) | 04.01.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/b4ccb6a797d9451d20ce05f86832eb1d0c839f81) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
+| [fix: Shadow field obfuscated SRG mapping error](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/540f69549923e8ac48da97a6d80737cc2e115560) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 10.01.2026 |
+| [Update README.md](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/71c98269443cc433694cb1ed64d0bda1055c1ec6) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Refactor ShareToLanScreenMixin for clarity and fea](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/21b7253c632d467a8c13dba9315ccc7d21988ac9) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Refactor Mod import statement](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/8eb746996d569734dbb9b6e4a2ec817214854a6e) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Create pack.mcmeta](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/2f268a04f09ca950faf6f36dbb23239d54643c44) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Add singleplayerserversettings mixin configuration](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/ec3b03d4fe7871aa0b7c2911c64be2d2084b4872) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+
 <!--END_SECTION:commits-->
 
 ### stats (gh)
 <!--START_SECTION:stats-->
+| Metric | Count |
+|--------|-------|
+| Total Stars | 28 |
+| Commits (2026) | 48 |
+| Pull Requests | 16 |
+| Issues | 7 |
+| Contributed Repos | 12 |
 <!--END_SECTION:stats-->
 
 ### stats (wakatime)
@@ -73,4 +93,4 @@ HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 
+Last updated: 22.01.2026 17:21
