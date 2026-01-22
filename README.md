@@ -43,10 +43,11 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 <!--START_SECTION:commits-->
 <!--END_SECTION:commits-->
 
-### stats
+### stats (gh)
 <!--START_SECTION:stats-->
 <!--END_SECTION:stats-->
 
+### stats (wakatime)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
