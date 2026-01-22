@@ -47,39 +47,24 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/b4ccb6a797d9451d20ce05f86832eb1d0c839f81) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
 | [fix: Shadow field obfuscated SRG mapping error](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/540f69549923e8ac48da97a6d80737cc2e115560) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 10.01.2026 |
-| [feat(metadata): update license information, readme](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/203a3cfd3204122d549b4f80facb32ecb826fb3b) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 10.01.2026 |
 | [Update README.md](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/71c98269443cc433694cb1ed64d0bda1055c1ec6) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
 | [Refactor ShareToLanScreenMixin for clarity and fea](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/21b7253c632d467a8c13dba9315ccc7d21988ac9) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
 | [Refactor Mod import statement](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/8eb746996d569734dbb9b6e4a2ec817214854a6e) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
 | [Create pack.mcmeta](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/2f268a04f09ca950faf6f36dbb23239d54643c44) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Add singleplayerserversettings mixin configuration](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/ec3b03d4fe7871aa0b7c2911c64be2d2084b4872) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 28 |
-| Commits (2026) | 41 |
+| Commits (2026) | 46 |
 | Pull Requests | 16 |
 | Issues | 7 |
 | Contributed Repos | 12 |
 
 #### WakaTime Stats
 <!--START_SECTION:waka-->
-
-```txt
-From: 16 June 2025 - To: 21 January 2026
-
-Total Time: 205 hrs 10 mins
-
-TypeScript        75 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 %
-JavaScript        26 hrs 10 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.82 %
-Svelte            23 hrs 49 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.85 %
-Markdown          20 hrs 51 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.62 %
-Rust              19 hrs 12 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.95 %
-CSS               4 hrs 37 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.91 %
-HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -91,4 +76,4 @@ HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 22.01.2026 17:07 (UTC)
+Last updated: 22.01.2026 17:15 (UTC)
