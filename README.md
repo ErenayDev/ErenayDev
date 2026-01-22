@@ -1,6 +1,6 @@
 # erenay@fedora-43
 
-```
+```sh
 ErenayDev on  main [✘!?] is 📦 v1.0.0 via 🥟 v1.3.5
 ❯ chmod +x print-ascii.sh && ./print-ascii.sh
         _____                           _____                                                  
@@ -57,29 +57,14 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
-| Total Stars | 44 |
-| Commits (2026) | 39 |
+| Total Stars | 28 |
+| Commits (2026) | 41 |
 | Pull Requests | 16 |
 | Issues | 7 |
-| Contributed Repos | 21 |
+| Contributed Repos | 12 |
 
 #### WakaTime Stats
 <!--START_SECTION:waka-->
-
-```txt
-From: 16 June 2025 - To: 21 January 2026
-
-Total Time: 205 hrs 10 mins
-
-TypeScript        75 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 %
-JavaScript        26 hrs 10 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.82 %
-Svelte            23 hrs 49 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.85 %
-Markdown          20 hrs 51 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.62 %
-Rust              19 hrs 12 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.95 %
-CSS               4 hrs 37 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.91 %
-HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.05 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -91,4 +76,4 @@ HTML              2 hrs 32 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 18.01.2026 12:04
+Last updated: 22.01.2026 17:07 (UTC)
