@@ -99,8 +99,10 @@ class GitHubStatsGenerator {
     if (!commits || commits.length === 0) {
       return "| Message | Repository | Date |\n|---------|------------|------|\n| No recent commits | - | - |";
     }
+
     let table =
       "| Message | Repository | Date |\n|---------|------------|------|\n";
+
     commits.forEach((commit) => {
       const message = commit.commit.message.split("\n")[0].substring(0, 50);
       const commitLink = commit.html_url;
@@ -111,6 +113,7 @@ class GitHubStatsGenerator {
       );
       table += `| [${message}](${commitLink}) | [${repo}](${repoLink}) | ${date} |\n`;
     });
+
     return table;
   }
 
@@ -130,7 +133,7 @@ async function main() {
     const generator = new GitHubStatsGenerator();
     const stats = await generator.generateStats();
 
-    const template = fs.readFileSync("TEMPLATE.md", "utf8");
+    let readme = fs.readFileSync("README.md", "utf8");
 
     const commitTable = generator.generateCommitTable(stats.commits);
     const statsTable = generator.generateStatsTable(stats);
@@ -143,14 +146,16 @@ async function main() {
       ":" +
       String(date.getMinutes()).padStart(2, "0");
 
-    let output = template
-      .replace("{{COMMIT_TABLE}}", commitTable)
-      .replace("{{STATS_TABLE}}", statsTable)
-      .replace("{{LAST_UPDATE}}", updateTime);
+    readme = readme
+      .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/, 
+        `<!--START_SECTION:commits-->\n${commitTable}\n<!--END_SECTION:commits-->`)
+      .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/, 
+        `<!--START_SECTION:stats-->\n${statsTable}\n<!--END_SECTION:stats-->`)
+      .replace(/Last updated: .*/, `Last updated: ${updateTime}`);
 
-    fs.writeFileSync("README.md", output);
+    fs.writeFileSync("README.md", readme);
 
-    console.log(" README updated successfully!");
+    console.log("✅ README updated successfully!");
     console.log(
       `📊 Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
     );
