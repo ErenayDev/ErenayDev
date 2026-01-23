@@ -146,21 +146,21 @@ async function main() {
       ":" +
       String(date.getMinutes()).padStart(2, "0");
 
-    readme = readme
-      .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/, 
-        `<!--START_SECTION:commits-->\n${commitTable}\n<!--END_SECTION:commits-->`)
-      .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/, 
-        `<!--START_SECTION:stats-->\n${statsTable}\n<!--END_SECTION:stats-->`)
-      .replace(/Last updated: .*/, `Last updated: ${updateTime}`);
+readme = readme
+  .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/, 
+    `<!--START_SECTION:commits-->\n${commitTable}\n<!--END_SECTION:commits-->`)
+  .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/, 
+    `<!--START_SECTION:stats-->\n${statsTable}\n<!--END_SECTION:stats-->`)
+  .replace(/last updated\(UTC\):.*/, `last updated(UTC): ${updateTime}`);
 
     fs.writeFileSync("README.md", readme);
 
-    console.log("✅ README updated successfully!");
+    console.log("README updated successfully!");
     console.log(
-      `📊 Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
+      `Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
     );
   } catch (error) {
-    console.error("❌ Error generating stats:", error);
+    console.error("Error generating stats:", error);
     process.exit(1);
   }
 }
