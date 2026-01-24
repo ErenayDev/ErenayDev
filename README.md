@@ -47,14 +47,14 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 |---------|------------|------|
 | [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
 | [Weblate: Turkish](https://github.com/celzero/rethink-app/commit/3eec3f4ef42f7f79144ce92f4c7e370c9762755c) | [rethink-app](https://github.com/celzero/rethink-app) | 04.01.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/b4ccb6a797d9451d20ce05f86832eb1d0c839f81) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
-| [fix: Shadow field obfuscated SRG mapping error](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/540f69549923e8ac48da97a6d80737cc2e115560) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 10.01.2026 |
-| [Update README.md](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/71c98269443cc433694cb1ed64d0bda1055c1ec6) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
-| [Refactor ShareToLanScreenMixin for clarity and fea](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/21b7253c632d467a8c13dba9315ccc7d21988ac9) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
-| [Refactor Mod import statement](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/8eb746996d569734dbb9b6e4a2ec817214854a6e) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
-| [Create pack.mcmeta](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/2f268a04f09ca950faf6f36dbb23239d54643c44) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
-| [Add singleplayerserversettings mixin configuration](https://github.com/ErenayDev/OfflineLAN-1.16.5/commit/ec3b03d4fe7871aa0b7c2911c64be2d2084b4872) | [OfflineLAN-1.16.5](https://github.com/ErenayDev/OfflineLAN-1.16.5) | 09.01.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
+| [feat(zsh): initial commit](https://github.com/ErenayDev/dotfiles/commit/5cf7d6937f071a6d6c1981cbe0da2592c9d286d9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [Initial commit](https://github.com/ErenayDev/dotfiles/commit/008ee16b1dd5e57bd2b81b35e343e0300471eaa9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [feat(bat): add tokyonight.nvim moon tmTheme](https://github.com/ErenayDev/dotfiles/commit/a29f98122d6a3c2e6baf3bd3e82f7d87cbebb600) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [feat(bat): add tokyonight.nvim night tmTheme](https://github.com/ErenayDev/dotfiles/commit/645e4ee97568268ef25f5e9ce95f1c1dae31b9dc) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [feat(bat): add tokyonight.nvim storm tmTheme](https://github.com/ErenayDev/dotfiles/commit/85750622e272d62010ae131ae6c4088b4d0ac295) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [feat(bat): add TokyoNight tmTheme file](https://github.com/ErenayDev/dotfiles/commit/36fcfdf806363cfce57463549e0a73935d6312ee) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
 
 <!--END_SECTION:commits-->
 
@@ -62,11 +62,11 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 <!--START_SECTION:stats-->
 | Metric | Count |
 |--------|-------|
-| Total Stars | 28 |
-| Commits (2026) | 52 |
+| Total Stars | 29 |
+| Commits (2026) | 67 |
 | Pull Requests | 16 |
 | Issues | 7 |
-| Contributed Repos | 12 |
+| Contributed Repos | 13 |
 <!--END_SECTION:stats-->
 
 ### stats (wakatime)
@@ -95,4 +95,4 @@ HTML              2 hrs 33 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-last updated(UTC): 23.01.2026 08:27
+last updated(UTC): 24.01.2026 19:28
