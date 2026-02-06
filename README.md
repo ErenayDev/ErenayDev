@@ -49,11 +49,11 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Weblate: Turkish](https://github.com/celzero/rethink-app/commit/3eec3f4ef42f7f79144ce92f4c7e370c9762755c) | [rethink-app](https://github.com/celzero/rethink-app) | 04.01.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/b4ccb6a797d9451d20ce05f86832eb1d0c839f81) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/c505a0e38102285e5a75274a51f0ccf215f91d94) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 31.01.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/85768d48ce96d5d468db608c96161b3995a3e7d3) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 02.02.2026 |
-| [Initial commit](https://github.com/ErenayDev/dotfiles/commit/008ee16b1dd5e57bd2b81b35e343e0300471eaa9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/c505a0e38102285e5a75274a51f0ccf215f91d94) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 31.01.2026 |
 | [feat(zsh): initial commit](https://github.com/ErenayDev/dotfiles/commit/5cf7d6937f071a6d6c1981cbe0da2592c9d286d9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
-| [feat(bat): add tokyonight.nvim storm tmTheme](https://github.com/ErenayDev/dotfiles/commit/85750622e272d62010ae131ae6c4088b4d0ac295) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [Initial commit](https://github.com/ErenayDev/dotfiles/commit/008ee16b1dd5e57bd2b81b35e343e0300471eaa9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [feat(bat): add tokyonight.nvim moon tmTheme](https://github.com/ErenayDev/dotfiles/commit/a29f98122d6a3c2e6baf3bd3e82f7d87cbebb600) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
 | [feat(bat): add tokyonight.nvim night tmTheme](https://github.com/ErenayDev/dotfiles/commit/645e4ee97568268ef25f5e9ce95f1c1dae31b9dc) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
 
 <!--END_SECTION:commits-->
@@ -95,4 +95,4 @@ HTML              2 hrs 39 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-last updated(UTC): 05.02.2026 11:44
+last updated(UTC): 06.02.2026 11:42
