@@ -46,15 +46,15 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | Message | Repository | Date |
 |---------|------------|------|
 | [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
-| [Weblate: Turkish](https://github.com/celzero/rethink-app/commit/3eec3f4ef42f7f79144ce92f4c7e370c9762755c) | [rethink-app](https://github.com/celzero/rethink-app) | 04.01.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/b4ccb6a797d9451d20ce05f86832eb1d0c839f81) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/8805fc39680ba9aaaa30753ae9aa30445edb2ab9) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 14.01.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/85768d48ce96d5d468db608c96161b3995a3e7d3) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 02.02.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/bmaroti9/Overmorrow/commit/c505a0e38102285e5a75274a51f0ccf215f91d94) | [Overmorrow](https://github.com/bmaroti9/Overmorrow) | 31.01.2026 |
-| [feat(zsh): initial commit](https://github.com/ErenayDev/dotfiles/commit/5cf7d6937f071a6d6c1981cbe0da2592c9d286d9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
-| [Initial commit](https://github.com/ErenayDev/dotfiles/commit/008ee16b1dd5e57bd2b81b35e343e0300471eaa9) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
-| [feat(bat): add tokyonight.nvim moon tmTheme](https://github.com/ErenayDev/dotfiles/commit/a29f98122d6a3c2e6baf3bd3e82f7d87cbebb600) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
-| [feat(bat): add tokyonight.nvim night tmTheme](https://github.com/ErenayDev/dotfiles/commit/645e4ee97568268ef25f5e9ce95f1c1dae31b9dc) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 23.01.2026 |
+| [fix: focus border outline](https://github.com/ErenayDev/ErenayDev.com.tr/commit/79a2dc49c392b81ae741d2d66edddca7ce875850) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: remove san-francisco font temporarily](https://github.com/ErenayDev/ErenayDev.com.tr/commit/008f9c20ffbd875a7d2e864f1c09aa9af9d9007c) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [fix: cursor-pointer](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d97108ecdc904e3fecd54780000e792055c890a3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: update text with new ones](https://github.com/ErenayDev/ErenayDev.com.tr/commit/92986b66dd4877929e1fb9feccce4723b16508ef) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [feat: add new project images and format with prett](https://github.com/ErenayDev/ErenayDev.com.tr/commit/6f4e05b13e3a0bc76bb1c13ec06e7f7b1dc1263a) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [fix: add signal icon](https://github.com/ErenayDev/ErenayDev.com.tr/commit/ab5e8741304edd8b30d791b411ce91b712593ef4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [feat: add new projects](https://github.com/ErenayDev/ErenayDev.com.tr/commit/45ec7d7937c94c5e865c9e7d39a4ffb26a7468f6) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: prettier format](https://github.com/ErenayDev/ErenayDev.com.tr/commit/3889f90aedd2162690676344b87d757790de77f3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [chore: bump version to 0.0.3](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d39e411ffa5d8ddca163296ce39b55baf4b3b7f4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
 
 <!--END_SECTION:commits-->
 
@@ -63,7 +63,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | Metric | Count |
 |--------|-------|
 | Total Stars | 28 |
-| Commits (2026) | 69 |
+| Commits (2026) | 81 |
 | Pull Requests | 16 |
 | Issues | 7 |
 | Contributed Repos | 13 |
@@ -95,4 +95,4 @@ HTML              2 hrs 54 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-last updated(UTC): 06.02.2026 11:42
+last updated(UTC): 07.02.2026 11:31
