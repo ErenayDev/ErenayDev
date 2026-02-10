@@ -45,16 +45,16 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 <!--START_SECTION:commits-->
 | Message | Repository | Date |
 |---------|------------|------|
-| [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
-| [fix: focus border outline](https://github.com/ErenayDev/ErenayDev.com.tr/commit/79a2dc49c392b81ae741d2d66edddca7ce875850) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [refactor: remove san-francisco font temporarily](https://github.com/ErenayDev/ErenayDev.com.tr/commit/008f9c20ffbd875a7d2e864f1c09aa9af9d9007c) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [fix: cursor-pointer](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d97108ecdc904e3fecd54780000e792055c890a3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [refactor: update text with new ones](https://github.com/ErenayDev/ErenayDev.com.tr/commit/92986b66dd4877929e1fb9feccce4723b16508ef) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [feat: add new project images and format with prett](https://github.com/ErenayDev/ErenayDev.com.tr/commit/6f4e05b13e3a0bc76bb1c13ec06e7f7b1dc1263a) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [fix: add signal icon](https://github.com/ErenayDev/ErenayDev.com.tr/commit/ab5e8741304edd8b30d791b411ce91b712593ef4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [feat: add new projects](https://github.com/ErenayDev/ErenayDev.com.tr/commit/45ec7d7937c94c5e865c9e7d39a4ffb26a7468f6) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [refactor: prettier format](https://github.com/ErenayDev/ErenayDev.com.tr/commit/3889f90aedd2162690676344b87d757790de77f3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
 | [chore: bump version to 0.0.3](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d39e411ffa5d8ddca163296ce39b55baf4b3b7f4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: prettier format](https://github.com/ErenayDev/ErenayDev.com.tr/commit/3889f90aedd2162690676344b87d757790de77f3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [feat: add new projects](https://github.com/ErenayDev/ErenayDev.com.tr/commit/45ec7d7937c94c5e865c9e7d39a4ffb26a7468f6) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [fix: add signal icon](https://github.com/ErenayDev/ErenayDev.com.tr/commit/ab5e8741304edd8b30d791b411ce91b712593ef4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [feat: add new project images and format with prett](https://github.com/ErenayDev/ErenayDev.com.tr/commit/6f4e05b13e3a0bc76bb1c13ec06e7f7b1dc1263a) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: update text with new ones](https://github.com/ErenayDev/ErenayDev.com.tr/commit/92986b66dd4877929e1fb9feccce4723b16508ef) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [fix: cursor-pointer](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d97108ecdc904e3fecd54780000e792055c890a3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [refactor: remove san-francisco font temporarily](https://github.com/ErenayDev/ErenayDev.com.tr/commit/008f9c20ffbd875a7d2e864f1c09aa9af9d9007c) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [fix: focus border outline](https://github.com/ErenayDev/ErenayDev.com.tr/commit/79a2dc49c392b81ae741d2d66edddca7ce875850) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
 
 <!--END_SECTION:commits-->
 
@@ -63,7 +63,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | Metric | Count |
 |--------|-------|
 | Total Stars | 28 |
-| Commits (2026) | 81 |
+| Commits (2026) | 85 |
 | Pull Requests | 16 |
 | Issues | 7 |
 | Contributed Repos | 13 |
@@ -95,4 +95,4 @@ HTML              2 hrs 54 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-last updated(UTC): 09.02.2026 11:53
+last updated(UTC): 10.02.2026 11:44
