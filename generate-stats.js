@@ -103,7 +103,7 @@ class GitHubStatsGenerator {
     let table =
       "| Message | Repository | Date |\n|---------|------------|------|\n";
 
-    commits.forEach((commit) => {
+    commits.reverse().forEach((commit) => {
       const message = commit.commit.message.split("\n")[0].substring(0, 50);
       const commitLink = commit.html_url;
       const repo = commit.repository.full_name.split("/")[1];
