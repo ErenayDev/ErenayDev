@@ -103,7 +103,7 @@ class GitHubStatsGenerator {
     let table =
       "| Message | Repository | Date |\n|---------|------------|------|\n";
 
-    commits.reverse().forEach((commit) => {
+    commits.forEach((commit) => {
       const message = commit.commit.message.split("\n")[0].substring(0, 50);
       const commitLink = commit.html_url;
       const repo = commit.repository.full_name.split("/")[1];
@@ -147,9 +147,9 @@ async function main() {
       String(date.getMinutes()).padStart(2, "0");
 
 readme = readme
-  .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/, 
+  .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/,
     `<!--START_SECTION:commits-->\n${commitTable}\n<!--END_SECTION:commits-->`)
-  .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/, 
+  .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/,
     `<!--START_SECTION:stats-->\n${statsTable}\n<!--END_SECTION:stats-->`)
   .replace(/last updated\(UTC\):.*/, `last updated(UTC): ${updateTime}`);
 
