@@ -17,7 +17,6 @@ class GitHubStatsGenerator {
       this.getPRStats(),
       this.getIssueStats(),
     ]);
-
     return {
       user,
       totalStars: repos.totalStars,
@@ -42,12 +41,7 @@ class GitHubStatsGenerator {
       username: this.username,
       per_page: 100,
     });
-
-    const totalStars = repos.reduce(
-      (sum, repo) => sum + repo.stargazers_count,
-      0,
-    );
-
+    const totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
     return {
       total: repos.length,
       totalStars,
@@ -99,21 +93,15 @@ class GitHubStatsGenerator {
     if (!commits || commits.length === 0) {
       return "| Message | Repository | Date |\n|---------|------------|------|\n| No recent commits | - | - |";
     }
-
-    let table =
-      "| Message | Repository | Date |\n|---------|------------|------|\n";
-
+    let table = "| Message | Repository | Date |\n|---------|------------|------|\n";
     commits.forEach((commit) => {
       const message = commit.commit.message.split("\n")[0].substring(0, 50);
       const commitLink = commit.html_url;
       const repo = commit.repository.full_name.split("/")[1];
       const repoLink = `https://github.com/${commit.repository.full_name}`;
-      const date = new Date(commit.commit.author.date).toLocaleDateString(
-        "tr-TR",
-      );
+      const date = new Date(commit.commit.author.date).toLocaleDateString("tr-TR");
       table += `| [${message}](${commitLink}) | [${repo}](${repoLink}) | ${date} |\n`;
     });
-
     return table;
   }
 
@@ -133,8 +121,7 @@ async function main() {
     const generator = new GitHubStatsGenerator();
     const stats = await generator.generateStats();
 
-    let readme = fs.readFileSync("README.md", "utf8");
-
+    const template = fs.readFileSync("TEMPLATE.md", "utf8");
     const commitTable = generator.generateCommitTable(stats.commits);
     const statsTable = generator.generateStatsTable(stats);
 
@@ -146,15 +133,12 @@ async function main() {
       ":" +
       String(date.getMinutes()).padStart(2, "0");
 
-readme = readme
-  .replace(/<!--START_SECTION:commits-->[\s\S]*?<!--END_SECTION:commits-->/,
-    `<!--START_SECTION:commits-->\n${commitTable}\n<!--END_SECTION:commits-->`)
-  .replace(/<!--START_SECTION:stats-->[\s\S]*?<!--END_SECTION:stats-->/,
-    `<!--START_SECTION:stats-->\n${statsTable}\n<!--END_SECTION:stats-->`)
-  .replace(/last updated\(UTC\):.*/, `last updated(UTC): ${updateTime}`);
+    const readme = template
+      .replace("{{COMMIT_TABLE}}", commitTable)
+      .replace("{{STATS_TABLE}}", statsTable)
+      .replace("{{LAST_UPDATE}}", updateTime);
 
     fs.writeFileSync("README.md", readme);
-
     console.log("README updated successfully!");
     console.log(
       `Stats: ${stats.totalStars} stars, ${stats.commitsThisYear} commits, ${stats.totalPRs} PRs`,
