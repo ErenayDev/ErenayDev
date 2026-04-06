@@ -65,6 +65,21 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 
 #### WakaTime Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 June 2025 - To: 05 April 2026
+
+Total Time: 290 hrs 47 mins
+
+TypeScript        100 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.68 %
+Rust              39 hrs 32 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.07 %
+Svelte            35 hrs 2 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.70 %
+Markdown          28 hrs 22 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.66 %
+JavaScript        27 hrs 54 mins        ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.52 %
+CSS               7 hrs 18 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
+HTML              3 hrs 19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
