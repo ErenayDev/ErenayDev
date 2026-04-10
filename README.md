@@ -42,23 +42,23 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
-| [Translated using Weblate (Turkish)](https://github.com/alltechdev/atd-store/commit/3c4c8e0fd2de78ebed6044fffa534c1835df31b2) | [atd-store](https://github.com/alltechdev/atd-store) | 04.02.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/alltechdev/atd-store/commit/549e8ef36da6ca1479eabe8b4c85acc1ddb5d644) | [atd-store](https://github.com/alltechdev/atd-store) | 02.02.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/alltechdev/atd-store/commit/b3c166178aa26e6472a9afeded0104cf9de56c71) | [atd-store](https://github.com/alltechdev/atd-store) | 23.01.2026 |
-| [Initial commit :)](https://github.com/ErenayDev/ErenayDev.com.tr/commit/dfa04028632c96996993738713d0d8eb090baad2) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 12.01.2026 |
-| [fix: focus border outline](https://github.com/ErenayDev/ErenayDev.com.tr/commit/79a2dc49c392b81ae741d2d66edddca7ce875850) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [refactor: remove san-francisco font temporarily](https://github.com/ErenayDev/ErenayDev.com.tr/commit/008f9c20ffbd875a7d2e864f1c09aa9af9d9007c) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [fix: cursor-pointer](https://github.com/ErenayDev/ErenayDev.com.tr/commit/d97108ecdc904e3fecd54780000e792055c890a3) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [refactor: update text with new ones](https://github.com/ErenayDev/ErenayDev.com.tr/commit/92986b66dd4877929e1fb9feccce4723b16508ef) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [feat: add new project images and format with prett](https://github.com/ErenayDev/ErenayDev.com.tr/commit/6f4e05b13e3a0bc76bb1c13ec06e7f7b1dc1263a) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
-| [fix: add signal icon](https://github.com/ErenayDev/ErenayDev.com.tr/commit/ab5e8741304edd8b30d791b411ce91b712593ef4) | [ErenayDev.com.tr](https://github.com/ErenayDev/ErenayDev.com.tr) | 06.02.2026 |
+| [feat: add commit order and sort fields to getCommi](https://github.com/ErenayDev/ErenayDev/commit/b2b3697ebc872e66de2f2d721c26c64433431abb) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
+| [Update generate-stats.js](https://github.com/ErenayDev/ErenayDev/commit/09954671b2c187e0edbd3b9f5c5d4c8cf2195c8e) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
+| [Merge pull request #1 from ErenayDev/renovate/conf](https://github.com/ErenayDev/ErenayDev/commit/506a3db823489304f786c4402d697906a08f9aab) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
+| [Update generate-stats.js](https://github.com/ErenayDev/ErenayDev/commit/2a9f5c51e784aa3f2a172268de30b434ca896fa4) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/fcd46c797ff88bec969d60f53a9fb429514e0b1c) | [Chocola](https://github.com/sosauce/Chocola) | 30.03.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b1b56f00936855915a977d2cd8674fb2cd74c387) | [Chocola](https://github.com/sosauce/Chocola) | 28.03.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/7797855b3a8517e809bb360a423f0bd79c393430) | [Chocola](https://github.com/sosauce/Chocola) | 28.03.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/T8RIN/ImageToolbox/commit/72fe05b0c9fb8622d177a8f582043c8144cf2ca2) | [ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 27.03.2026 |
+| [chore(deps): update dependency typescript to v6](https://github.com/ErenayDev/viteplus-svelte/commit/e0dc63d3e76c46b4401c14ef15b2b76e5fc963e2) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 24.03.2026 |
+| [chore: bump svelte to 5.54.0](https://github.com/ErenayDev/viteplus-svelte/commit/c27ffdd14331c600c5dd884b8d91fca0e9864d41) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 19.03.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 35 |
-| Commits (2026) | 145 |
+| Commits (2026) | 146 |
 | Pull Requests | 19 |
 | Issues | 13 |
 | Contributed Repos | 17 |
@@ -91,4 +91,4 @@ HTML              3 hrs 19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 10.04.2026 18:53 (UTC)
+Last updated: 10.04.2026 19:01 (UTC)
