@@ -49,19 +49,21 @@ class GitHubStatsGenerator {
     };
   }
 
-  async getCommitStats() {
-    try {
-      const currentYear = new Date().getFullYear();
-      const { data } = await this.octokit.rest.search.commits({
-        q: `author:${this.username} author-date:${currentYear}-01-01..${currentYear}-12-31`,
-        per_page: 10,
-      });
-      return { thisYear: data.total_count, commits: data.items };
-    } catch (error) {
-      console.log("Commit stats could not be retrieved, using fallback");
-      return { thisYear: 0, commits: [] };
-    }
+async getCommitStats() {
+  try {
+    const currentYear = new Date().getFullYear();
+    const { data } = await this.octokit.rest.search.commits({
+      q: `author:${this.username} author-date:${currentYear}-01-01..${currentYear}-12-31`,
+      sort: "author-date",
+      order: "desc",
+      per_page: 10,
+    });
+    return { thisYear: data.total_count, commits: data.items };
+  } catch (error) {
+    console.log("Commit stats could not be retrieved, using fallback");
+    return { thisYear: 0, commits: [] };
   }
+}
 
   async getPRStats() {
     try {
