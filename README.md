@@ -42,24 +42,24 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
-| [feat: add commit order and sort fields to getCommi](https://github.com/ErenayDev/ErenayDev/commit/b2b3697ebc872e66de2f2d721c26c64433431abb) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
-| [Update generate-stats.js](https://github.com/ErenayDev/ErenayDev/commit/09954671b2c187e0edbd3b9f5c5d4c8cf2195c8e) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
-| [Merge pull request #1 from ErenayDev/renovate/conf](https://github.com/ErenayDev/ErenayDev/commit/506a3db823489304f786c4402d697906a08f9aab) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
-| [Update generate-stats.js](https://github.com/ErenayDev/ErenayDev/commit/2a9f5c51e784aa3f2a172268de30b434ca896fa4) | [ErenayDev](https://github.com/ErenayDev/ErenayDev) | 10.04.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/fcd46c797ff88bec969d60f53a9fb429514e0b1c) | [Chocola](https://github.com/sosauce/Chocola) | 30.03.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b1b56f00936855915a977d2cd8674fb2cd74c387) | [Chocola](https://github.com/sosauce/Chocola) | 28.03.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/7797855b3a8517e809bb360a423f0bd79c393430) | [Chocola](https://github.com/sosauce/Chocola) | 28.03.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/T8RIN/ImageToolbox/commit/72fe05b0c9fb8622d177a8f582043c8144cf2ca2) | [ImageToolbox](https://github.com/T8RIN/ImageToolbox) | 27.03.2026 |
-| [chore(deps): update dependency typescript to v6](https://github.com/ErenayDev/viteplus-svelte/commit/e0dc63d3e76c46b4401c14ef15b2b76e5fc963e2) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 24.03.2026 |
-| [chore: bump svelte to 5.54.0](https://github.com/ErenayDev/viteplus-svelte/commit/c27ffdd14331c600c5dd884b8d91fca0e9864d41) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 19.03.2026 |
+| [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
+| [docs: fix readme commands](https://github.com/ErenayDev/cachefetch/commit/cc0a46b42cac0d7bb5b566b091d976d6bb856a7a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
+| [chore: bump github actions to latest](https://github.com/ErenayDev/cachefetch/commit/1c97aeb8b042ab15368869af952f582d09d966e6) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
+| [chore: bump actions to latest](https://github.com/ErenayDev/cachefetch/commit/d29fd22a44f4d6fe7d6a2abf84e45c6026d6da2a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
+| [feat: add cachefetch to repository](https://github.com/ErenayDev/PKGBUILDs/commit/57e7703b0d232c9d9363d9599f49da4043693b4f) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
+| [Initial upload: cachefetch-bin 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/09aaf75a0ff0750da026c042456e42502b0f0a58) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
+| [Initial upload: cachefetch 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/35fd0e0e41e99ee23e5173118989f8d3dcd01295) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
+| [docs: update changelog for v0.1.0](https://github.com/ErenayDev/cachefetch/commit/b4e324f0454ba6549094283648e1f50232c3d95f) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
+| [docs: update preview image, add new fields](https://github.com/ErenayDev/cachefetch/commit/1d8b5263c05dfc2d9d846ed868db3d3ed870ea99) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
+| [perf: optimize disk checking logic](https://github.com/ErenayDev/cachefetch/commit/431df35d6e504d5cd5fa7bd0a19bd2d43ae2471d) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
-| Total Stars | 35 |
-| Commits (2026) | 146 |
-| Pull Requests | 19 |
+| Total Stars | 36 |
+| Commits (2026) | 161 |
+| Pull Requests | 21 |
 | Issues | 13 |
 | Contributed Repos | 17 |
 
@@ -91,4 +91,4 @@ HTML              3 hrs 19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 11.04.2026 11:39 (UTC)
+Last updated: 12.04.2026 11:44 (UTC)
