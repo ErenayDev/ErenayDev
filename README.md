@@ -67,7 +67,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 13 April 2026
+From: 16 June 2025 - To: 14 April 2026
 
 Total Time: 299 hrs 37 mins
 
