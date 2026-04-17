@@ -43,6 +43,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | Message | Repository | Date |
 |---------|------------|------|
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
 | [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 | [docs: fix readme commands](https://github.com/ErenayDev/cachefetch/commit/cc0a46b42cac0d7bb5b566b091d976d6bb856a7a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 | [chore: bump github actions to latest](https://github.com/ErenayDev/cachefetch/commit/1c97aeb8b042ab15368869af952f582d09d966e6) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
@@ -51,14 +52,13 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Initial upload: cachefetch-bin 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/09aaf75a0ff0750da026c042456e42502b0f0a58) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 | [Initial upload: cachefetch 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/35fd0e0e41e99ee23e5173118989f8d3dcd01295) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 | [docs: update changelog for v0.1.0](https://github.com/ErenayDev/cachefetch/commit/b4e324f0454ba6549094283648e1f50232c3d95f) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
-| [docs: update preview image, add new fields](https://github.com/ErenayDev/cachefetch/commit/1d8b5263c05dfc2d9d846ed868db3d3ed870ea99) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 37 |
-| Commits (2026) | 162 |
+| Commits (2026) | 163 |
 | Pull Requests | 21 |
 | Issues | 13 |
 | Contributed Repos | 17 |
@@ -91,4 +91,4 @@ HTML              3 hrs 21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 16.04.2026 12:05 (UTC)
+Last updated: 17.04.2026 12:00 (UTC)
