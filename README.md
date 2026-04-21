@@ -42,6 +42,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
+| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
 | [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
@@ -51,14 +52,13 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [feat: add cachefetch to repository](https://github.com/ErenayDev/PKGBUILDs/commit/57e7703b0d232c9d9363d9599f49da4043693b4f) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 | [Initial upload: cachefetch-bin 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/09aaf75a0ff0750da026c042456e42502b0f0a58) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 | [Initial upload: cachefetch 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/35fd0e0e41e99ee23e5173118989f8d3dcd01295) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
-| [docs: update changelog for v0.1.0](https://github.com/ErenayDev/cachefetch/commit/b4e324f0454ba6549094283648e1f50232c3d95f) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 11.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
-| Total Stars | 38 |
-| Commits (2026) | 166 |
+| Total Stars | 39 |
+| Commits (2026) | 167 |
 | Pull Requests | 23 |
 | Issues | 13 |
 | Contributed Repos | 17 |
@@ -91,4 +91,4 @@ HTML              3 hrs 22 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 20.04.2026 12:11 (UTC)
+Last updated: 21.04.2026 12:06 (UTC)
