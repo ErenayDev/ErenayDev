@@ -42,6 +42,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
+| [docs: fix aur installation method (#29)](https://github.com/ErenayDev/cachefetch/commit/50578970a37012bffd73503ef14c38937bcbffbd) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
@@ -51,15 +52,14 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [chore: bump actions to latest](https://github.com/ErenayDev/cachefetch/commit/d29fd22a44f4d6fe7d6a2abf84e45c6026d6da2a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 | [feat: add cachefetch to repository](https://github.com/ErenayDev/PKGBUILDs/commit/57e7703b0d232c9d9363d9599f49da4043693b4f) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 | [Initial upload: cachefetch-bin 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/09aaf75a0ff0750da026c042456e42502b0f0a58) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
-| [Initial upload: cachefetch 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/35fd0e0e41e99ee23e5173118989f8d3dcd01295) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 39 |
-| Commits (2026) | 167 |
-| Pull Requests | 23 |
+| Commits (2026) | 168 |
+| Pull Requests | 24 |
 | Issues | 13 |
 | Contributed Repos | 17 |
 
@@ -91,4 +91,4 @@ HTML              3 hrs 22 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 21.04.2026 12:06 (UTC)
+Last updated: 22.04.2026 12:05 (UTC)
