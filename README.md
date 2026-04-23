@@ -42,6 +42,9 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
+| [docs(readme): fix repology pkg name](https://github.com/ErenayDev/cachefetch/commit/ea7b7f6358ce403563542a9e49c20b97a77958cc) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
+| [chore: sync deps from pnpm lock (#26)](https://github.com/ErenayDev/viteplus-svelte/commit/27e7b68f4fa8e08e4bcdd6cc3a602c1459b711eb) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 22.04.2026 |
+| [add cachefetch](https://github.com/repology/repology-rules/commit/0a15afd36d4c9a56f9b211c92579935e1a26a3ef) | [repology-rules](https://github.com/repology/repology-rules) | 22.04.2026 |
 | [docs: fix aur installation method (#29)](https://github.com/ErenayDev/cachefetch/commit/50578970a37012bffd73503ef14c38937bcbffbd) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
@@ -49,18 +52,15 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 | [docs: fix readme commands](https://github.com/ErenayDev/cachefetch/commit/cc0a46b42cac0d7bb5b566b091d976d6bb856a7a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 | [chore: bump github actions to latest](https://github.com/ErenayDev/cachefetch/commit/1c97aeb8b042ab15368869af952f582d09d966e6) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
-| [chore: bump actions to latest](https://github.com/ErenayDev/cachefetch/commit/d29fd22a44f4d6fe7d6a2abf84e45c6026d6da2a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
-| [feat: add cachefetch to repository](https://github.com/ErenayDev/PKGBUILDs/commit/57e7703b0d232c9d9363d9599f49da4043693b4f) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
-| [Initial upload: cachefetch-bin 0.1.0-1](https://github.com/ErenayDev/PKGBUILDs/commit/09aaf75a0ff0750da026c042456e42502b0f0a58) | [PKGBUILDs](https://github.com/ErenayDev/PKGBUILDs) | 11.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
-| Total Stars | 39 |
-| Commits (2026) | 168 |
-| Pull Requests | 24 |
-| Issues | 13 |
+| Total Stars | 40 |
+| Commits (2026) | 171 |
+| Pull Requests | 26 |
+| Issues | 12 |
 | Contributed Repos | 17 |
 
 #### WakaTime Stats
@@ -91,4 +91,4 @@ HTML              3 hrs 22 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 22.04.2026 12:05 (UTC)
+Last updated: 23.04.2026 12:05 (UTC)
