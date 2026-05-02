@@ -43,6 +43,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | Message | Repository | Date |
 |---------|------------|------|
 | [new update](https://github.com/ErenayDev/dotfiles/commit/2cd5908dd4c1b7aeff07dc4373b545b189f197af) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 30.04.2026 |
+| [Translated using Weblate (Turkish)](https://github.com/shub39/Grit/commit/82c46e54f2ece244e6e8b7cd942a487fa2da6d00) | [Grit](https://github.com/shub39/Grit) | 28.04.2026 |
 | [docs(readme): fix repology pkg name](https://github.com/ErenayDev/cachefetch/commit/ea7b7f6358ce403563542a9e49c20b97a77958cc) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
 | [chore: sync deps from pnpm lock (#26)](https://github.com/ErenayDev/viteplus-svelte/commit/27e7b68f4fa8e08e4bcdd6cc3a602c1459b711eb) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 22.04.2026 |
 | [add cachefetch](https://github.com/repology/repology-rules/commit/0a15afd36d4c9a56f9b211c92579935e1a26a3ef) | [repology-rules](https://github.com/repology/repology-rules) | 22.04.2026 |
@@ -51,14 +52,13 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
 | [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
-| [docs: fix readme commands](https://github.com/ErenayDev/cachefetch/commit/cc0a46b42cac0d7bb5b566b091d976d6bb856a7a) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 43 |
-| Commits (2026) | 180 |
+| Commits (2026) | 181 |
 | Pull Requests | 26 |
 | Issues | 13 |
 | Contributed Repos | 17 |
@@ -91,4 +91,4 @@ Zig               5 hrs 48 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 01.05.2026 12:03 (UTC)
+Last updated: 02.05.2026 11:54 (UTC)
