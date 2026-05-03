@@ -42,6 +42,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
+| [chore(ci): update workflow action versions (#41)](https://github.com/ErenayDev/checkpoint-ts/commit/559107a91b1ca3dd3ec47af82bceca799ad980e7) | [checkpoint-ts](https://github.com/ErenayDev/checkpoint-ts) | 02.05.2026 |
 | [new update](https://github.com/ErenayDev/dotfiles/commit/2cd5908dd4c1b7aeff07dc4373b545b189f197af) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 30.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/shub39/Grit/commit/82c46e54f2ece244e6e8b7cd942a487fa2da6d00) | [Grit](https://github.com/shub39/Grit) | 28.04.2026 |
 | [docs(readme): fix repology pkg name](https://github.com/ErenayDev/cachefetch/commit/ea7b7f6358ce403563542a9e49c20b97a77958cc) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
@@ -51,15 +52,14 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
-| [Fix Arch Linux installing instructions on README](https://github.com/ErenayDev/cachefetch/commit/ce9eae891be82df5f7373be1284c7d87b41a2464) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 12.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 43 |
-| Commits (2026) | 181 |
-| Pull Requests | 26 |
+| Commits (2026) | 182 |
+| Pull Requests | 27 |
 | Issues | 13 |
 | Contributed Repos | 17 |
 
@@ -91,4 +91,4 @@ Zig               6 hrs 51 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 02.05.2026 11:54 (UTC)
+Last updated: 03.05.2026 11:53 (UTC)
