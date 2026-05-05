@@ -42,6 +42,7 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
+| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/d7ca75a5d40b3b004a05cc3137f34c95bd0a2c37) | [Chocola](https://github.com/sosauce/Chocola) | 04.05.2026 |
 | [chore(ci): update workflow action versions (#41)](https://github.com/ErenayDev/checkpoint-ts/commit/559107a91b1ca3dd3ec47af82bceca799ad980e7) | [checkpoint-ts](https://github.com/ErenayDev/checkpoint-ts) | 02.05.2026 |
 | [new update](https://github.com/ErenayDev/dotfiles/commit/2cd5908dd4c1b7aeff07dc4373b545b189f197af) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 30.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/shub39/Grit/commit/82c46e54f2ece244e6e8b7cd942a487fa2da6d00) | [Grit](https://github.com/shub39/Grit) | 28.04.2026 |
@@ -51,14 +52,13 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 | [docs: fix aur installation method (#29)](https://github.com/ErenayDev/cachefetch/commit/50578970a37012bffd73503ef14c38937bcbffbd) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
 | [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
 | [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/guardianproject/ripple/commit/d54fedf61f815edc0c9062af896a176e063586ae) | [ripple](https://github.com/guardianproject/ripple) | 12.04.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 43 |
-| Commits (2026) | 182 |
+| Commits (2026) | 183 |
 | Pull Requests | 27 |
 | Issues | 13 |
 | Contributed Repos | 17 |
@@ -91,4 +91,4 @@ Zig               6 hrs 51 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 04.05.2026 12:23 (UTC)
+Last updated: 05.05.2026 12:09 (UTC)
