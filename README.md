@@ -42,24 +42,24 @@ ccccccccccccccccccccccccccccc:'.           ├─ Backend: Elysia.js, Express
 #### Recent Activity
 | Message | Repository | Date |
 |---------|------------|------|
-| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/d7ca75a5d40b3b004a05cc3137f34c95bd0a2c37) | [Chocola](https://github.com/sosauce/Chocola) | 04.05.2026 |
-| [chore(ci): update workflow action versions (#41)](https://github.com/ErenayDev/checkpoint-ts/commit/559107a91b1ca3dd3ec47af82bceca799ad980e7) | [checkpoint-ts](https://github.com/ErenayDev/checkpoint-ts) | 02.05.2026 |
-| [new update](https://github.com/ErenayDev/dotfiles/commit/2cd5908dd4c1b7aeff07dc4373b545b189f197af) | [dotfiles](https://github.com/ErenayDev/dotfiles) | 30.04.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/shub39/Grit/commit/82c46e54f2ece244e6e8b7cd942a487fa2da6d00) | [Grit](https://github.com/shub39/Grit) | 28.04.2026 |
-| [docs(readme): fix repology pkg name](https://github.com/ErenayDev/cachefetch/commit/ea7b7f6358ce403563542a9e49c20b97a77958cc) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
-| [chore: sync deps from pnpm lock (#26)](https://github.com/ErenayDev/viteplus-svelte/commit/27e7b68f4fa8e08e4bcdd6cc3a602c1459b711eb) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 22.04.2026 |
-| [add cachefetch](https://github.com/repology/repology-rules/commit/0a15afd36d4c9a56f9b211c92579935e1a26a3ef) | [repology-rules](https://github.com/repology/repology-rules) | 22.04.2026 |
-| [docs: fix aur installation method (#29)](https://github.com/ErenayDev/cachefetch/commit/50578970a37012bffd73503ef14c38937bcbffbd) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 22.04.2026 |
-| [Translated using Weblate (Turkish)](https://github.com/sosauce/Chocola/commit/b0655bab937b243d8a5646d390352e1dbc5df364) | [Chocola](https://github.com/sosauce/Chocola) | 20.04.2026 |
-| [Update rust crate libc to v0.2.185 (#24)](https://github.com/ErenayDev/cachefetch/commit/2011dcb90fdcd99458511ac636440bf51f3a8011) | [cachefetch](https://github.com/ErenayDev/cachefetch) | 13.04.2026 |
+| [fix](https://github.com/ErenayDev/viteplus-svelte/commit/a71bba474f8d9ca87c79b3595259ea20d3d945ca) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [Merge branch 'chore/update-deps'](https://github.com/ErenayDev/viteplus-svelte/commit/e926501413fb12684956c92e979fcd6ea52c034e) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [Merge branch 'viteplus-refactor' into chore/update](https://github.com/ErenayDev/viteplus-svelte/commit/fc0e156673313cf885bcb0be12cd6ec6a4f3c867) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [chore: update deps (#38)](https://github.com/ErenayDev/viteplus-svelte/commit/679eda1816c2c2402c61b8cd59d7581727689dd3) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [update](https://github.com/ErenayDev/viteplus-svelte/commit/c3de360515d2e6e0ba3df43e94c704bdb889b0e0) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [Merge branch 'master' into chore/update-deps](https://github.com/ErenayDev/viteplus-svelte/commit/bea13414020d864f882d18032072b558569c5ea5) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [update](https://github.com/ErenayDev/viteplus-svelte/commit/5a2f8fda1eaa6ea501adddc44076380d7e99b33c) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [refactor](https://github.com/ErenayDev/viteplus-svelte/commit/609f105270a9cd9cd838f2fac1e7d8af6ebf017d) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [refactor](https://github.com/ErenayDev/viteplus-svelte/commit/d023273d0f3b90d5aec06a0c341d92aa50a35c20) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
+| [chore: update deps](https://github.com/ErenayDev/viteplus-svelte/commit/2b265c22f4a4a4daab9118f80cd2cad8cedfc9fc) | [viteplus-svelte](https://github.com/ErenayDev/viteplus-svelte) | 08.05.2026 |
 
 
 #### GitHub Stats
 | Metric | Count |
 |--------|-------|
 | Total Stars | 43 |
-| Commits (2026) | 183 |
-| Pull Requests | 27 |
+| Commits (2026) | 196 |
+| Pull Requests | 28 |
 | Issues | 13 |
 | Contributed Repos | 17 |
 
@@ -91,4 +91,4 @@ Zig               7 hrs 36 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-Last updated: 08.05.2026 12:15 (UTC)
+Last updated: 09.05.2026 11:57 (UTC)
