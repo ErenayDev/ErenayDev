@@ -1,0 +1,32 @@
+# Fork this repo, then:
+#   1. Settings → Secrets and variables → Actions → New repository secret
+#      Name:  BLOCKER_TOKEN
+#      Value: a PAT with `user` (account blocks) + `admin:org` + `read:org` (org blocks & auto-discovery)
+#   2. Actions tab → enable workflows on the fork
+#   3. Either wait for the cron or click "Run workflow" on this workflow
+#
+# It will sync your personal account block list AND every org where you're an admin.
+
+name: Block Spammers
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: "Log only, don't actually block"
+        required: false
+        default: "false"
+
+jobs:
+  block:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./
+        with:
+          token: ${{ secrets.BLOCKER_TOKEN }}
+          targets: "@me"
+          dry-run: ${{ inputs.dry-run || 'false' }}
