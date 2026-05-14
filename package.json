@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "sponsorkit": "^17.1.0"
+  }
+}
