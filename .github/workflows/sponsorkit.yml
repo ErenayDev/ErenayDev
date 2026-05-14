@@ -26,6 +26,6 @@ jobs:
           author_name: GitHub Actions
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "chore: update sponsors.svg [ci skip]"
-          add: "sponsors.*"
+          add: "sponsorkit.*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
